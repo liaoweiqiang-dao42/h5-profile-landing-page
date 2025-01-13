@@ -61,6 +61,13 @@ node_modules/
 vendor/
 .pnpm-store/
 
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
 # Other
 # Additional unnecessary generated files and directories can be added here as needed.
 .1024*
